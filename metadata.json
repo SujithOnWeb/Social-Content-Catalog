@@ -1,0 +1,5 @@
+{
+  "name": "Social Content Catalyst",
+  "description": "A cross-platform social media content generator. Users input an idea and a tone, and the app generates tailored posts for LinkedIn, Twitter/X, and Instagram, complete with platform-optimized images.",
+  "requestFramePermissions": []
+}
