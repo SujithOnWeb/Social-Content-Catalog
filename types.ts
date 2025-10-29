@@ -18,7 +18,7 @@ export interface Post {
   platform: Platform;
   text: string;
   imageUrl: string;
-  aspectRatio: '1:1' | '16:9' | '4:5';
+  aspectRatio: '1:1' | '16:9' | '3:4';
 }
 
 export interface GeneratedContent {

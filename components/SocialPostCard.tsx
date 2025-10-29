@@ -20,8 +20,8 @@ const SocialPostCard: React.FC<SocialPostCardProps> = ({ post }) => {
     switch (aspectRatio) {
       case '16:9':
         return 'aspect-[16/9]';
-      case '4:5':
-        return 'aspect-[4/5]';
+      case '3:4':
+        return 'aspect-[3/4]';
       case '1:1':
       default:
         return 'aspect-square';
